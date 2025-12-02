@@ -3,13 +3,18 @@ import pandas as pd
 import etl_customers
 import etl_sales
 import etl_sales_aggregate
+import etl_files
 import database
 from etl_exception import EtlError
 import logging
 
 
+logging.basicConfig(level=logging.INFO)
+
+
 def process_all():
     database.setup_database()
+    etl_files.init_directories()
     
     customers_df: pd.DataFrame = etl_customers.extract_process()
     database.save_to_db('customers', customers_df)
