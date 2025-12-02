@@ -10,27 +10,27 @@ def read_csv(csv_file_path: str):
         os.chdir(script_dir)
         csv_file_path = f"{script_dir}/{csv_file_path}"
     try:
-        logging.info("importing csv file:", csv_file_path)
+        logging.info(f"importing csv file: {csv_file_path}")
         df = pd.read_csv(csv_file_path)
         return df
-    except FileNotFoundError:
-        logging.error("File doesn't exist! Check the file name/path", csv_file_path)
-        raise EtlError
-    except pd.errors.EmptyDataError:
+    except FileNotFoundError as e:
+        logging.error(f"File doesn't exist! Check the file name/path {csv_file_path}")
+        raise EtlError from e
+    except pd.errors.EmptyDataError as e:
         logging.error("File is empty!", csv_file_path)
-        raise EtlError
-    except UnicodeDecodeError:
-        logging.error("File has unknown encoding...", csv_file_path)
+        raise EtlError from e
+    except UnicodeDecodeError as e:
+        logging.error(f"File has unknown encoding. {csv_file_path}")
         df = pd.read_csv('file_with_special_chars.csv', encoding='latin-1')
-        raise EtlError
-    except Exception as e:
-        logging.error(f"Something went wrong: {e}")
-        logging.error("Try checking if the file is corrupted or in a different format")
-        raise EtlError
+        raise EtlError from e
+    except Exception as e :
+        logging.error(f"Something went wrong: {e}. Try checking if the file is corrupted or in a different format")
+        raise EtlError from e
     
 
 def write_to_csv(df: pd.DataFrame, filename: str):
     try:
         df.to_csv(filename, mode='a', index=False)
-    except Exception as error:
-        print("error on writing duplicates to csv file", error)
+    except Exception as e:
+        logging.error(f"error on writing duplicates to csv file {e}")
+        raise EtlError from e

@@ -6,6 +6,7 @@ from sqlalchemy import Engine
 import psycopg2
 import pandas as pd
 import os
+import logging
 
 db_user = "it_one"
 db_password = "it_one"
@@ -19,7 +20,6 @@ tables_sql_file = f"{script_dir}/sql_scripts/db.sql"
 
 
 def with_connection(func: Callable, sql_query: str):
-    """Manage database connection and pass it to your function"""
     connection = None
     try:
         connection = psycopg2.connect(user=db_user,
@@ -44,7 +44,7 @@ def execute_sql_update(connection, sql_update: str):
     cursor = connection.cursor()
     cursor.execute(sql_update)
     if cursor.rowcount > 0:
-        print("updated", cursor.rowcount)
+        logging.info(f"updated {cursor.rowcount}")
 
 
 def setup_database():
@@ -52,9 +52,9 @@ def setup_database():
         sql_commands = ''
         try:
             sql_commands = file.read()
-            print("tables created")
+            logging.info("tables created")
         except FileNotFoundError:
-            print("failed to read init scripts from file", tables_sql_file)
+            logging.error(f"failed to read init scripts from file {tables_sql_file}")
         with_connection(execute_sql_update, sql_commands)
 
 

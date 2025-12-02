@@ -27,8 +27,8 @@ def set_month_of_the_sale(df: pd.DataFrame):
 def handle_duplicates(df: pd.DataFrame):
     duplicates_df = df[df.duplicated(subset=['order_id'])]
     if duplicates_df.size > 0:
-        logging.info("Duplicate order_ids:",
-              duplicates_df['order_id'].unique().tolist())
+        logging.info(
+            f"Duplicate order_ids: {duplicates_df['order_id'].unique().tolist()}")
         etl_csv.write_to_csv(duplicates_df, duplicate_orders_file)
         return df.drop_duplicates(subset=['order_id'])
     else:

@@ -5,6 +5,8 @@ import etl_sales
 import etl_sales_aggregate
 import database
 from etl_exception import EtlError
+import logging
+
 
 def process_all():
     database.setup_database()
@@ -28,4 +30,5 @@ def process_all():
 try:
     process_all()
 except EtlError:
-    print("application did not finish")
+    logging.error("application did not finish")
+    
