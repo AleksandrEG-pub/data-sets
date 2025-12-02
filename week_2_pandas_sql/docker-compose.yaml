@@ -1,0 +1,17 @@
+name: it_one
+
+services:
+  database:
+    image: postgres:17.5
+    restart: unless-stopped
+    ports:
+      - "10451:5432"
+    environment:
+      POSTGRES_DB: it_one 
+      POSTGRES_USER: it_one
+      POSTGRES_PASSWORD: it_one
+    volumes:
+      - it_one_db_data:/var/lib/postgresql/data
+
+volumes:
+  it_one_db_data:

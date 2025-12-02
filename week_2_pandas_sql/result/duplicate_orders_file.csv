@@ -1,0 +1,208 @@
+order_id,customer_id,product_id,product_name,quantity,unit_price,order_date,category,order_total,month_of_the_sale
+1001,CUST001,PROD101,Ноутбук Lenovo IdeaPad,1,45000.5,2024-01-15,Электроника,45001.5,01
+1002,CUST002,PROD205,,2,1200.0,2024-01-15,Одежда,1202.0,01
+1003,CUST001,PROD305,Книга 'Python для начинающих',1,,2024-01-16,Книги,,01
+order_id,customer_id,product_id,product_name,quantity,unit_price,order_date,category,order_total,month_of_the_sale
+1001,CUST001,PROD101,Ноутбук Lenovo IdeaPad,1,45000.5,2024-01-15,Электроника,45001.5,01
+1002,CUST002,PROD205,,2,1200.0,2024-01-15,Одежда,1202.0,01
+1003,CUST001,PROD305,Книга 'Python для начинающих',1,,2024-01-16,Книги,,01
+order_id,customer_id,product_id,product_name,quantity,unit_price,order_date,category,order_total,month_of_the_sale
+1001,CUST001,PROD101,Ноутбук Lenovo IdeaPad,1,45000.5,2024-01-15,Электроника,45001.5,01
+1002,CUST002,PROD205,,2,1200.0,2024-01-15,Одежда,1202.0,01
+1003,CUST001,PROD305,Книга 'Python для начинающих',1,,2024-01-16,Книги,,01
+order_id,customer_id,product_id,product_name,quantity,unit_price,order_date,category,order_total,month_of_the_sale
+1001,CUST001,PROD101,Ноутбук Lenovo IdeaPad,1,45000.5,2024-01-15,Электроника,45001.5,01
+1002,CUST002,PROD205,,2,1200.0,2024-01-15,Одежда,1202.0,01
+1003,CUST001,PROD305,Книга 'Python для начинающих',1,,2024-01-16,Книги,,01
+order_id,customer_id,product_id,product_name,quantity,unit_price,order_date,category,order_total,month_of_the_sale
+1001,CUST001,PROD101,Ноутбук Lenovo IdeaPad,1,45000.5,2024-01-15,Электроника,45001.5,01
+1002,CUST002,PROD205,,2,1200.0,2024-01-15,Одежда,1202.0,01
+1003,CUST001,PROD305,Книга 'Python для начинающих',1,,2024-01-16,Книги,,01
+order_id,customer_id,product_id,product_name,quantity,unit_price,order_date,category,order_total,month_of_the_sale
+1001,CUST001,PROD101,Ноутбук Lenovo IdeaPad,1,45000.5,2024-01-15,Электроника,45001.5,01
+1002,CUST002,PROD205,,2,1200.0,2024-01-15,Одежда,1202.0,01
+1003,CUST001,PROD305,Книга 'Python для начинающих',1,,2024-01-16,Книги,,01
+order_id,customer_id,product_id,product_name,quantity,unit_price,order_date,category,order_total,month_of_the_sale
+1001,CUST001,PROD101,Ноутбук Lenovo IdeaPad,1,45000.5,2024-01-15,Электроника,45001.5,01
+1002,CUST002,PROD205,,2,1200.0,2024-01-15,Одежда,1202.0,01
+1003,CUST001,PROD305,Книга 'Python для начинающих',1,,2024-01-16,Книги,,01
+order_id,customer_id,product_id,product_name,quantity,unit_price,order_date,category,order_total,month_of_the_sale
+1001,CUST001,PROD101,Ноутбук Lenovo IdeaPad,1,45000.5,2024-01-15,Электроника,45001.5,01
+1002,CUST002,PROD205,,2,1200.0,2024-01-15,Одежда,1202.0,01
+1003,CUST001,PROD305,Книга 'Python для начинающих',1,,2024-01-16,Книги,,01
+order_id,customer_id,product_id,product_name,quantity,unit_price,order_date,category,order_total,month_of_the_sale
+1001,CUST001,PROD101,Ноутбук Lenovo IdeaPad,1,45000.5,2024-01-15,Электроника,45001.5,01
+1002,CUST002,PROD205,,2,1200.0,2024-01-15,Одежда,1202.0,01
+1003,CUST001,PROD305,Книга 'Python для начинающих',1,,2024-01-16,Книги,,01
+order_id,customer_id,product_id,product_name,quantity,unit_price,order_date,category,order_total,month_of_the_sale
+1001,CUST001,PROD101,Ноутбук Lenovo IdeaPad,1,45000.5,2024-01-15,Электроника,45001.5,01
+1002,CUST002,PROD205,,2,1200.0,2024-01-15,Одежда,1202.0,01
+1003,CUST001,PROD305,Книга 'Python для начинающих',1,,2024-01-16,Книги,,01
+order_id,customer_id,product_id,product_name,quantity,unit_price,order_date,category,order_total,month_of_the_sale
+1001,CUST001,PROD101,Ноутбук Lenovo IdeaPad,1,45000.5,2024-01-15,Электроника,45001.5,01
+1002,CUST002,PROD205,,2,1200.0,2024-01-15,Одежда,1202.0,01
+1003,CUST001,PROD305,Книга 'Python для начинающих',1,,2024-01-16,Книги,,01
+order_id,customer_id,product_id,product_name,quantity,unit_price,order_date,category,order_total,month_of_the_sale
+1001,CUST001,PROD101,Ноутбук Lenovo IdeaPad,1,45000.5,2024-01-15,Электроника,45001.5,01
+1002,CUST002,PROD205,,2,1200.0,2024-01-15,Одежда,1202.0,01
+1003,CUST001,PROD305,Книга 'Python для начинающих',1,,2024-01-16,Книги,,01
+order_id,customer_id,product_id,product_name,quantity,unit_price,order_date,category,order_total,month_of_the_sale
+1001,CUST001,PROD101,Ноутбук Lenovo IdeaPad,1,45000.5,2024-01-15,Электроника,45001.5,01
+1002,CUST002,PROD205,,2,1200.0,2024-01-15,Одежда,1202.0,01
+1003,CUST001,PROD305,Книга 'Python для начинающих',1,,2024-01-16,Книги,,01
+order_id,customer_id,product_id,product_name,quantity,unit_price,order_date,category,order_total,month_of_the_sale
+1001,CUST001,PROD101,Ноутбук Lenovo IdeaPad,1,45000.5,2024-01-15,Электроника,45001.5,01
+1002,CUST002,PROD205,,2,1200.0,2024-01-15,Одежда,1202.0,01
+1003,CUST001,PROD305,Книга 'Python для начинающих',1,,2024-01-16,Книги,,01
+order_id,customer_id,product_id,product_name,quantity,unit_price,order_date,category,order_total,month_of_the_sale
+1001,CUST001,PROD101,Ноутбук Lenovo IdeaPad,1,45000.5,2024-01-15,Электроника,45001.5,01
+1002,CUST002,PROD205,,2,1200.0,2024-01-15,Одежда,1202.0,01
+1003,CUST001,PROD305,Книга 'Python для начинающих',1,,2024-01-16,Книги,,01
+order_id,customer_id,product_id,product_name,quantity,unit_price,order_date,category,order_total,month_of_the_sale
+1001,CUST001,PROD101,Ноутбук Lenovo IdeaPad,1,45000.5,2024-01-15,Электроника,45001.5,01
+1002,CUST002,PROD205,,2,1200.0,2024-01-15,Одежда,1202.0,01
+1003,CUST001,PROD305,Книга 'Python для начинающих',1,,2024-01-16,Книги,,01
+order_id,customer_id,product_id,product_name,quantity,unit_price,order_date,category,order_total,month_of_the_sale
+1001,CUST001,PROD101,Ноутбук Lenovo IdeaPad,1,45000.5,2024-01-15,Электроника,45001.5,01
+1002,CUST002,PROD205,,2,1200.0,2024-01-15,Одежда,1202.0,01
+1003,CUST001,PROD305,Книга 'Python для начинающих',1,,2024-01-16,Книги,,01
+order_id,customer_id,product_id,product_name,quantity,unit_price,order_date,category,order_total,month_of_the_sale
+1001,CUST001,PROD101,Ноутбук Lenovo IdeaPad,1,45000.5,2024-01-15,Электроника,45001.5,01
+1002,CUST002,PROD205,,2,1200.0,2024-01-15,Одежда,1202.0,01
+1003,CUST001,PROD305,Книга 'Python для начинающих',1,,2024-01-16,Книги,,01
+order_id,customer_id,product_id,product_name,quantity,unit_price,order_date,category,order_total,month_of_the_sale
+1001,CUST001,PROD101,Ноутбук Lenovo IdeaPad,1,45000.5,2024-01-15,Электроника,45001.5,01
+1002,CUST002,PROD205,,2,1200.0,2024-01-15,Одежда,1202.0,01
+1003,CUST001,PROD305,Книга 'Python для начинающих',1,,2024-01-16,Книги,,01
+order_id,customer_id,product_id,product_name,quantity,unit_price,order_date,category,order_total,month_of_the_sale
+1001,CUST001,PROD101,Ноутбук Lenovo IdeaPad,1,45000.5,2024-01-15,Электроника,45001.5,01
+1002,CUST002,PROD205,,2,1200.0,2024-01-15,Одежда,1202.0,01
+1003,CUST001,PROD305,Книга 'Python для начинающих',1,,2024-01-16,Книги,,01
+order_id,customer_id,product_id,product_name,quantity,unit_price,order_date,category,order_total,month_of_the_sale
+1001,CUST001,PROD101,Ноутбук Lenovo IdeaPad,1,45000.5,2024-01-15,Электроника,45001.5,01
+1002,CUST002,PROD205,,2,1200.0,2024-01-15,Одежда,1202.0,01
+1003,CUST001,PROD305,Книга 'Python для начинающих',1,,2024-01-16,Книги,,01
+order_id,customer_id,product_id,product_name,quantity,unit_price,order_date,category,order_total,month_of_the_sale
+1001,CUST001,PROD101,Ноутбук Lenovo IdeaPad,1,45000.5,2024-01-15,Электроника,45001.5,01
+1002,CUST002,PROD205,,2,1200.0,2024-01-15,Одежда,1202.0,01
+1003,CUST001,PROD305,Книга 'Python для начинающих',1,,2024-01-16,Книги,,01
+order_id,customer_id,product_id,product_name,quantity,unit_price,order_date,category,order_total,month_of_the_sale
+1001,CUST001,PROD101,Ноутбук Lenovo IdeaPad,1,45000.5,2024-01-15,Электроника,45001.5,01
+1002,CUST002,PROD205,,2,1200.0,2024-01-15,Одежда,1202.0,01
+1003,CUST001,PROD305,Книга 'Python для начинающих',1,,2024-01-16,Книги,,01
+order_id,customer_id,product_id,product_name,quantity,unit_price,order_date,category,order_total,month_of_the_sale
+1001,CUST001,PROD101,Ноутбук Lenovo IdeaPad,1,45000.5,2024-01-15,Электроника,45001.5,01
+1002,CUST002,PROD205,,2,1200.0,2024-01-15,Одежда,1202.0,01
+1003,CUST001,PROD305,Книга 'Python для начинающих',1,,2024-01-16,Книги,,01
+order_id,customer_id,product_id,product_name,quantity,unit_price,order_date,category,order_total,month_of_the_sale
+1001,CUST001,PROD101,Ноутбук Lenovo IdeaPad,1,45000.5,2024-01-15,Электроника,45001.5,01
+1002,CUST002,PROD205,,2,1200.0,2024-01-15,Одежда,1202.0,01
+1003,CUST001,PROD305,Книга 'Python для начинающих',1,,2024-01-16,Книги,,01
+order_id,customer_id,product_id,product_name,quantity,unit_price,order_date,category,order_total,month_of_the_sale
+1001,CUST001,PROD101,Ноутбук Lenovo IdeaPad,1,45000.5,2024-01-15,Электроника,45001.5,01
+1002,CUST002,PROD205,,2,1200.0,2024-01-15,Одежда,1202.0,01
+1003,CUST001,PROD305,Книга 'Python для начинающих',1,,2024-01-16,Книги,,01
+order_id,customer_id,product_id,product_name,quantity,unit_price,order_date,category,order_total,month_of_the_sale
+1001,CUST001,PROD101,Ноутбук Lenovo IdeaPad,1,45000.5,2024-01-15,Электроника,45001.5,01
+1002,CUST002,PROD205,,2,1200.0,2024-01-15,Одежда,1202.0,01
+1003,CUST001,PROD305,Книга 'Python для начинающих',1,,2024-01-16,Книги,,01
+order_id,customer_id,product_id,product_name,quantity,unit_price,order_date,category,order_total,month_of_the_sale
+1001,CUST001,PROD101,Ноутбук Lenovo IdeaPad,1,45000.5,2024-01-15,Электроника,45001.5,01
+1002,CUST002,PROD205,,2,1200.0,2024-01-15,Одежда,1202.0,01
+1003,CUST001,PROD305,Книга 'Python для начинающих',1,,2024-01-16,Книги,,01
+order_id,customer_id,product_id,product_name,quantity,unit_price,order_date,category,order_total,month_of_the_sale
+1001,CUST001,PROD101,Ноутбук Lenovo IdeaPad,1,45000.5,2024-01-15,Электроника,45001.5,01
+1002,CUST002,PROD205,,2,1200.0,2024-01-15,Одежда,1202.0,01
+1003,CUST001,PROD305,Книга 'Python для начинающих',1,,2024-01-16,Книги,,01
+order_id,customer_id,product_id,product_name,quantity,unit_price,order_date,category,order_total,month_of_the_sale
+1001,CUST001,PROD101,Ноутбук Lenovo IdeaPad,1,45000.5,2024-01-15,Электроника,45001.5,01
+1002,CUST002,PROD205,,2,1200.0,2024-01-15,Одежда,1202.0,01
+1003,CUST001,PROD305,Книга 'Python для начинающих',1,,2024-01-16,Книги,,01
+order_id,customer_id,product_id,product_name,quantity,unit_price,order_date,category,order_total,month_of_the_sale
+1001,CUST001,PROD101,Ноутбук Lenovo IdeaPad,1,45000.5,2024-01-15,Электроника,45001.5,01
+1002,CUST002,PROD205,,2,1200.0,2024-01-15,Одежда,1202.0,01
+1003,CUST001,PROD305,Книга 'Python для начинающих',1,,2024-01-16,Книги,,01
+order_id,customer_id,product_id,product_name,quantity,unit_price,order_date,category,order_total,month_of_the_sale
+1001,CUST001,PROD101,Ноутбук Lenovo IdeaPad,1,45000.5,2024-01-15,Электроника,45001.5,01
+1002,CUST002,PROD205,,2,1200.0,2024-01-15,Одежда,1202.0,01
+1003,CUST001,PROD305,Книга 'Python для начинающих',1,,2024-01-16,Книги,,01
+order_id,customer_id,product_id,product_name,quantity,unit_price,order_date,category,total_price,month
+1001,CUST001,PROD101,Ноутбук Lenovo IdeaPad,1,45000.5,2024-01-15,Электроника,45001.5,01
+1002,CUST002,PROD205,,2,1200.0,2024-01-15,Одежда,1202.0,01
+1003,CUST001,PROD305,Книга 'Python для начинающих',1,,2024-01-16,Книги,,01
+order_id,customer_id,product_id,product_name,quantity,unit_price,order_date,category,total_price,month
+1001,CUST001,PROD101,Ноутбук Lenovo IdeaPad,1,45000.5,2024-01-15,Электроника,45001.5,01
+1002,CUST002,PROD205,,2,1200.0,2024-01-15,Одежда,1202.0,01
+1003,CUST001,PROD305,Книга 'Python для начинающих',1,,2024-01-16,Книги,,01
+order_id,customer_id,product_id,product_name,quantity,unit_price,order_date,category,total_price,month
+1001,CUST001,PROD101,Ноутбук Lenovo IdeaPad,1,45000.5,2024-01-15,Электроника,45001.5,01
+1002,CUST002,PROD205,,2,1200.0,2024-01-15,Одежда,1202.0,01
+1003,CUST001,PROD305,Книга 'Python для начинающих',1,,2024-01-16,Книги,,01
+order_id,customer_id,product_id,product_name,quantity,unit_price,order_date,category,total_price,month
+1001,CUST001,PROD101,Ноутбук Lenovo IdeaPad,1,45000.5,2024-01-15,Электроника,45001.5,01
+1002,CUST002,PROD205,,2,1200.0,2024-01-15,Одежда,1202.0,01
+1003,CUST001,PROD305,Книга 'Python для начинающих',1,,2024-01-16,Книги,,01
+order_id,customer_id,product_id,product_name,quantity,unit_price,order_date,category,total_price,month
+1001,CUST001,PROD101,Ноутбук Lenovo IdeaPad,1,45000.5,2024-01-15,Электроника,45001.5,01
+1002,CUST002,PROD205,,2,1200.0,2024-01-15,Одежда,1202.0,01
+1003,CUST001,PROD305,Книга 'Python для начинающих',1,,2024-01-16,Книги,,01
+order_id,customer_id,product_id,product_name,quantity,unit_price,order_date,category,total_price,month
+1001,CUST001,PROD101,Ноутбук Lenovo IdeaPad,1,45000.5,2024-01-15,Электроника,45001.5,01
+1002,CUST002,PROD205,,2,1200.0,2024-01-15,Одежда,1202.0,01
+1003,CUST001,PROD305,Книга 'Python для начинающих',1,,2024-01-16,Книги,,01
+order_id,customer_id,product_id,product_name,quantity,unit_price,order_date,category,total_price,month
+1001,CUST001,PROD101,Ноутбук Lenovo IdeaPad,1,45000.5,2024-01-15,Электроника,45001.5,01
+1002,CUST002,PROD205,,2,1200.0,2024-01-15,Одежда,1202.0,01
+1003,CUST001,PROD305,Книга 'Python для начинающих',1,,2024-01-16,Книги,,01
+order_id,customer_id,product_id,product_name,quantity,unit_price,order_date,category,total_price,month
+1001,CUST001,PROD101,Ноутбук Lenovo IdeaPad,1,45000.5,2024-01-15,Электроника,45001.5,01
+1002,CUST002,PROD205,,2,1200.0,2024-01-15,Одежда,1202.0,01
+1003,CUST001,PROD305,Книга 'Python для начинающих',1,,2024-01-16,Книги,,01
+order_id,customer_id,product_id,product_name,quantity,unit_price,order_date,category,total_price,month
+1001,CUST001,PROD101,Ноутбук Lenovo IdeaPad,1,45000.5,2024-01-15,Электроника,45001.5,01
+1002,CUST002,PROD205,,2,1200.0,2024-01-15,Одежда,1202.0,01
+1003,CUST001,PROD305,Книга 'Python для начинающих',1,,2024-01-16,Книги,,01
+order_id,customer_id,product_id,product_name,quantity,unit_price,order_date,category,total_price,month
+1001,CUST001,PROD101,Ноутбук Lenovo IdeaPad,1,45000.5,2024-01-15,Электроника,45001.5,01
+1002,CUST002,PROD205,,2,1200.0,2024-01-15,Одежда,1202.0,01
+1003,CUST001,PROD305,Книга 'Python для начинающих',1,,2024-01-16,Книги,,01
+order_id,customer_id,product_id,product_name,quantity,unit_price,order_date,category,total_price,month
+1001,CUST001,PROD101,Ноутбук Lenovo IdeaPad,1,45000.5,2024-01-15,Электроника,45001.5,01
+1002,CUST002,PROD205,,2,1200.0,2024-01-15,Одежда,1202.0,01
+1003,CUST001,PROD305,Книга 'Python для начинающих',1,,2024-01-16,Книги,,01
+order_id,customer_id,product_id,product_name,quantity,unit_price,order_date,category,total_price,month
+1001,CUST001,PROD101,Ноутбук Lenovo IdeaPad,1,45000.5,2024-01-15,Электроника,45001.5,01
+1002,CUST002,PROD205,,2,1200.0,2024-01-15,Одежда,1202.0,01
+1003,CUST001,PROD305,Книга 'Python для начинающих',1,,2024-01-16,Книги,,01
+order_id,customer_id,product_id,product_name,quantity,unit_price,order_date,category,total_price,month
+1001,CUST001,PROD101,Ноутбук Lenovo IdeaPad,1,45000.5,2024-01-15,Электроника,45001.5,01
+1002,CUST002,PROD205,,2,1200.0,2024-01-15,Одежда,1202.0,01
+1003,CUST001,PROD305,Книга 'Python для начинающих',1,,2024-01-16,Книги,,01
+order_id,customer_id,product_id,product_name,quantity,unit_price,order_date,category,total_price,month
+1001,CUST001,PROD101,Ноутбук Lenovo IdeaPad,1,45000.5,2024-01-15,Электроника,45001.5,01
+1002,CUST002,PROD205,,2,1200.0,2024-01-15,Одежда,1202.0,01
+1003,CUST001,PROD305,Книга 'Python для начинающих',1,,2024-01-16,Книги,,01
+order_id,customer_id,product_id,product_name,quantity,unit_price,order_date,category,total_price,month
+1001,CUST001,PROD101,Ноутбук Lenovo IdeaPad,1,45000.5,2024-01-15,Электроника,45001.5,01
+1002,CUST002,PROD205,,2,1200.0,2024-01-15,Одежда,1202.0,01
+1003,CUST001,PROD305,Книга 'Python для начинающих',1,,2024-01-16,Книги,,01
+order_id,customer_id,product_id,product_name,quantity,unit_price,order_date,category,total_price,month
+1001,CUST001,PROD101,Ноутбук Lenovo IdeaPad,1,45000.5,2024-01-15,Электроника,45001.5,01
+1002,CUST002,PROD205,,2,1200.0,2024-01-15,Одежда,1202.0,01
+1003,CUST001,PROD305,Книга 'Python для начинающих',1,,2024-01-16,Книги,,01
+order_id,customer_id,product_id,product_name,quantity,unit_price,order_date,category,total_price,month
+1001,CUST001,PROD101,Ноутбук Lenovo IdeaPad,1,45000.5,2024-01-15,Электроника,45001.5,01
+1002,CUST002,PROD205,,2,1200.0,2024-01-15,Одежда,1202.0,01
+1003,CUST001,PROD305,Книга 'Python для начинающих',1,,2024-01-16,Книги,,01
+order_id,customer_id,product_id,product_name,quantity,unit_price,order_date,category,total_price,month
+1001,CUST001,PROD101,Ноутбук Lenovo IdeaPad,1,45000.5,2024-01-15,Электроника,45001.5,01
+1002,CUST002,PROD205,,2,1200.0,2024-01-15,Одежда,1202.0,01
+1003,CUST001,PROD305,Книга 'Python для начинающих',1,,2024-01-16,Книги,,01
+order_id,customer_id,product_id,product_name,quantity,unit_price,order_date,category,total_price,month
+1001,CUST001,PROD101,Ноутбук Lenovo IdeaPad,1,45000.5,2024-01-15,Электроника,45001.5,01
+1002,CUST002,PROD205,,2,1200.0,2024-01-15,Одежда,1202.0,01
+1003,CUST001,PROD305,Книга 'Python для начинающих',1,,2024-01-16,Книги,,01
+order_id,customer_id,product_id,product_name,quantity,unit_price,order_date,category,total_price,month
+1001,CUST001,PROD101,Ноутбук Lenovo IdeaPad,1,45000.5,2024-01-15,Электроника,45001.5,01
+1002,CUST002,PROD205,,2,1200.0,2024-01-15,Одежда,1202.0,01
+1003,CUST001,PROD305,Книга 'Python для начинающих',1,,2024-01-16,Книги,,01
